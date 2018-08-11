@@ -1,5 +1,5 @@
 TN:
-SF:/Users/vlad/dev/client-node/lib/client.js
+SF:/Users/twilson/jrs/smart-express/lib/client.js
 DA:1,1
 DA:2,1
 DA:3,1
@@ -104,7 +104,7 @@ LF:75
 LH:75
 end_of_record
 TN:
-SF:/Users/vlad/dev/client-node/lib/errors.js
+SF:/Users/twilson/jrs/smart-express/lib/errors.js
 DA:1,1
 DA:2,1
 DA:3,1
@@ -127,7 +127,7 @@ LF:17
 LH:17
 end_of_record
 TN:
-SF:/Users/vlad/dev/client-node/lib/express.js
+SF:/Users/twilson/jrs/smart-express/lib/express.js
 DA:1,1
 DA:2,1
 DA:3,1
@@ -235,7 +235,7 @@ LF:49
 LH:49
 end_of_record
 TN:
-SF:/Users/vlad/dev/client-node/lib/hapi.js
+SF:/Users/twilson/jrs/smart-express/lib/hapi.js
 DA:1,1
 DA:2,1
 DA:3,1
@@ -337,7 +337,7 @@ LF:43
 LH:43
 end_of_record
 TN:
-SF:/Users/vlad/dev/client-node/lib/lib.js
+SF:/Users/twilson/jrs/smart-express/lib/lib.js
 DA:1,1
 DA:2,1
 DA:3,1
