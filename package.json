@@ -1,6 +1,6 @@
 {
   "name": "client-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SMART client for NodeJS",
   "main": "index.js",
   "directories": {
