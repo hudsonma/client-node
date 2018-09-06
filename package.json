@@ -1,5 +1,5 @@
 {
-  "name": "client-node",
+  "name": "@twilson63/smart-express",
   "version": "1.0.1",
   "description": "SMART client for NodeJS",
   "main": "index.js",
